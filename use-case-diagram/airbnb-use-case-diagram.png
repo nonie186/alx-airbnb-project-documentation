@@ -2,5 +2,5 @@
 
 This diagram visualizes key interactions between actors (Guest, Host, Admin) and the Airbnb Clone backend system.
 
-![Airbnb Use Case Diagram](./use-case-diagram/airbnb-use-case.png)
+![Airbnb Use Case Diagram](use-case-diagram/airbnb-use-case.png)
 
