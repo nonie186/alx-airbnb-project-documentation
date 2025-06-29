@@ -2,7 +2,7 @@
 
 This flowchart illustrates the backend process for registering a new user in the Airbnb Clone system.
 
-![Data Flow Diagram](./flowcharts/user-registrations-flowchart.png)
+![Data Flow Diagram](./user-registrations-flowchart.png)
 
 
 
