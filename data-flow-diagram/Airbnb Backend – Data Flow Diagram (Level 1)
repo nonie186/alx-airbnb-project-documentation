@@ -1,1 +1,7 @@
+# 🔄 Data Flow Diagram – Airbnb Clone Backend
+
+This Data Flow Diagram (DFD) illustrates how data flows through the backend system of the Airbnb Clone project. 
+It highlights key processes such as registration, property management, booking, payments, and notifications.
+
+![Data Flow Diagram](../data-flow-diagram/data-flow.png)
 
