@@ -52,7 +52,7 @@
 
 Visuals of All Internal and External Actors
 
-![Airbnb Use Case Diagram](use-case-diagram/airbnb-use-case.png)
+![Airbnb Use Case Diagram](./airbnb-use-case-diagram.png.png)
 
 
 
