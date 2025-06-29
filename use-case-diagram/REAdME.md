@@ -52,7 +52,7 @@
 
 Visuals of All Internal and External Actors
 
-![Airbnb Use Case Diagram](https://raw.githubusercontent.com/your-username/alx-airbnb-project-documentation/main/use-case-diagram/airbnb-use-case-diagram.png)
+![Airbnb Use Case Diagram](./airbnb-use-case-diagram.png)
 
 
 
